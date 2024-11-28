@@ -25,7 +25,7 @@ This is a ZIP file containing the program files and all necessary dependencies.
 You **must** have [Python](https://www.python.org/downloads/) 3.9+ installed.
 
 ```bash
-git clone https://github.com/dsymbol/yt-dlp-gui
+git clone https://github.com/xr-coder/yt-dlp-gui
 cd yt-dlp-gui
 pip install -r requirements.txt
 cd app
